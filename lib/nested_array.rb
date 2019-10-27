@@ -76,7 +76,7 @@ def matrix_lookup(matrix, row, column)
   "Michael Pemulis"
 ]
 ]
-
+matrix[0][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
