@@ -34,6 +34,7 @@ def assembled_matrix
   "Michael Pemulis"
 ]
 ]
+return matrix
 end
 
 def array_literal_matrix
