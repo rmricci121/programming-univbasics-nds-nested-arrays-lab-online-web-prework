@@ -61,6 +61,22 @@ end
 
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
+  matrix = [[
+  "Don Gately",
+  "Joelle van Dyne",
+  "Pat M.",
+  "Kate Gompert",
+  "Bruce Green"
+],
+[
+  "Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"
+]
+]
+
 end
 
 def matrix_update(matrix, row, column, new_value)
