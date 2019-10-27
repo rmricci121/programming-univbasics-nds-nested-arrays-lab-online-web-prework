@@ -97,5 +97,5 @@ def matrix_update(matrix, row, column, new_value)
   "Michael Pemulis"
 ]
 ]
-matrix[0][1]= "Tiny Ewell"
+matrix[1][1]= "Tiny Ewell"
 end
